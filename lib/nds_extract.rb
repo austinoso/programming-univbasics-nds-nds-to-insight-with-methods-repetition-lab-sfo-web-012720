@@ -53,9 +53,11 @@ def total_gross(source)
 
   dir_index = 0
 
+  directors_totals(source)
+
   while dir_index < source.length do
 
-    source[dir_index]
+
 
   end
 
