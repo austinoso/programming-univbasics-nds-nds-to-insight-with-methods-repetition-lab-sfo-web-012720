@@ -55,6 +55,7 @@ def total_gross(source)
   total = 0
 
   totals = directors_totals(source)
+  directors = list_of_directors(source)
 
 
 
