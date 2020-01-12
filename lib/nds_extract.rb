@@ -52,7 +52,6 @@ def total_gross(source)
   # return the total
 
   dir_index = 0
-  number_of_dir = 
 
   while dir_index < source.length do
 
