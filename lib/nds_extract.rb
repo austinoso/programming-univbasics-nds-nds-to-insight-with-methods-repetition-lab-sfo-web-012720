@@ -52,9 +52,9 @@ def total_gross(source)
   # return the total
 
   dir_index = 0
-  number_of_dir = source.length
+  number_of_dir = 
 
-  while dir_index < number_of_dir do
+  while dir_index < source.length do
 
     source[dir_index]
 
