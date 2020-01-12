@@ -51,8 +51,8 @@ def total_gross(source)
   # returned by directors_totals, and add it to a running total. When done,
   # return the total
 
-  dir_index = 0
   total = 0
+  dir_index = 0
 
   totals = directors_totals(source)
   directors = list_of_directors(source)
