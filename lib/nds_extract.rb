@@ -53,6 +53,6 @@ def total_gross(source)
 
   dir_index = 0
 
-  while 
-  
+  while
+
 end
