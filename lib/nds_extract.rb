@@ -61,7 +61,7 @@ def total_gross(source)
 
   while dir_index < source.length do
 
-    total = totals[directors[dir_index]]
+    total += totals[directors[dir_index]]
 
   end
 
