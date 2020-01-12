@@ -52,6 +52,7 @@ def total_gross(source)
   # return the total
 
   dir_index = 0
+  total = 0
 
   directors_totals(source)
 
